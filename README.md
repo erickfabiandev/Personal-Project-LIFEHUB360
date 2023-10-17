@@ -2,7 +2,8 @@
 
 **Your Integrated Solution for Event, Calendar, Tasks, Files, Photos, and Financial Management**
 
-![image](https://github.com/erickfabiandev/life-hub-360-fed/assets/109047392/412555f0-8f1e-4f77-ad58-133d51ebae13)
+![image](https://github.com/erickfabiandev/Personal-Project-LIFEHUB360/assets/109047392/e3d89219-b246-4ddb-ac1a-f24ee4611f72)
+
 
 ## Table of Contents
 - [Introduction](#introduction)
